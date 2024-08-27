@@ -1,0 +1,12 @@
+https://uat.bannerhealthfoundation.org/              ------> default page loading
+
+
+
+https://uat.supplychainvaluenetwork.com/            ------->  correctly loading
+https://uat.documents.bannerhealth.com/             ------- > correctly loading
+
+
+
+
+https://uat.horizonlaboratory.com/                    ------> Error not loading
+https://uat.bannernetworkcolorado.com                 ------> Error not loading 
